@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2013-06-12T11:30:32.281-04:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/uniqlo/templates/baseTemplate"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Base Page"
+        sling:resourceType="uniqlo/components/page/basePage"/>
+</jcr:root>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2013-06-17T14:33:37.215-04:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/uniqlo/templates/newtemplate"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="new temp page"
+        sling:resourceType="uniqlo/components/page/newtemppage">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <imageholder
+                jcr:created="{Date}2013-06-17T12:59:07.865-04:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2013-06-17T12:59:07.865-04:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="uniqlo/components/components/imageholder"/>
+            <productview
+                jcr:created="{Date}2013-06-17T14:25:58.252-04:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2013-06-17T14:25:58.252-04:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="uniqlo/components/components/productView"/>
+        </par>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,6 @@
+/apps/uniqlo/components/global/global.jsp
+tld:http://sling.apache.org/taglibs/sling/1.0
+tld:http://www.day.com/taglibs/cq/1.0
+tld:http://java.sun.com/jsp/jstl/core
+tld:http://java.sun.com/jsp/jstl/fmt
+tld:http://java.sun.com/jsp/jstl/functions
